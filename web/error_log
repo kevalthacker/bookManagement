@@ -1,0 +1,2537 @@
+[05-Jun-2019 14:14:09 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/adroitte/public_html/projects/libtest1/config/web.php on line 60
+[06-Jun-2019 06:36:53 UTC] PHP Fatal error:  Class 'app\controllers\SignupForm' not found in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 151
+[06-Jun-2019 06:46:55 UTC] PHP Fatal error:  Call to undefined method app\models\User::getDb() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/validators/UniqueValidator.php on line 139
+[06-Jun-2019 06:49:52 UTC] PHP Fatal error:  Call to undefined method app\models\User::getDb() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/validators/UniqueValidator.php on line 139
+[06-Jun-2019 06:51:14 UTC] PHP Fatal error:  Call to undefined method app\models\User::getDb() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/validators/UniqueValidator.php on line 139
+[06-Jun-2019 06:54:32 UTC] PHP Fatal error:  Call to undefined method app\models\User::getDb() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/validators/UniqueValidator.php on line 139
+[06-Jun-2019 06:57:06 UTC] PHP Fatal error:  Call to undefined method app\models\User::getDb() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/validators/UniqueValidator.php on line 139
+[06-Jun-2019 06:57:25 UTC] PHP Fatal error:  Call to undefined method app\models\User::getDb() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/validators/UniqueValidator.php on line 139
+[06-Jun-2019 07:03:24 UTC] PHP Fatal error:  Call to undefined method app\models\User::getDb() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/validators/UniqueValidator.php on line 139
+[06-Jun-2019 07:04:29 UTC] PHP Fatal error:  Call to undefined method app\models\User::getDb() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/validators/UniqueValidator.php on line 139
+[06-Jun-2019 07:12:53 UTC] PHP Fatal error:  Class app\models\User contains 5 abstract methods and must therefore be declared abstract or implement the remaining methods (yii\web\IdentityInterface::findIdentity, yii\web\IdentityInterface::findIdentityByAccessToken, yii\web\IdentityInterface::getId, ...) in /home/adroitte/public_html/projects/libtest1/models/User.php on line 8
+[06-Jun-2019 07:15:49 UTC] PHP Fatal error:  Class app\models\User contains 5 abstract methods and must therefore be declared abstract or implement the remaining methods (yii\web\IdentityInterface::findIdentity, yii\web\IdentityInterface::findIdentityByAccessToken, yii\web\IdentityInterface::getId, ...) in /home/adroitte/public_html/projects/libtest1/models/User.php on line 8
+[06-Jun-2019 13:11:34 UTC] PHP Fatal error:  Call to undefined method app\models\User::getDb() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/validators/UniqueValidator.php on line 139
+[06-Jun-2019 13:18:20 UTC] PHP Fatal error:  Call to undefined method app\models\User::getDb() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/validators/UniqueValidator.php on line 139
+[06-Jun-2019 13:18:34 UTC] PHP Fatal error:  Call to undefined method app\models\User::getDb() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/validators/UniqueValidator.php on line 139
+[06-Jun-2019 13:19:35 UTC] PHP Fatal error:  Call to undefined method app\models\User::getDb() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/validators/UniqueValidator.php on line 139
+[06-Jun-2019 13:21:11 UTC] PHP Fatal error:  Call to undefined method app\models\User::getDb() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/validators/UniqueValidator.php on line 139
+[06-Jun-2019 13:22:48 UTC] PHP Fatal error:  Call to undefined method app\models\User::getDb() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/validators/UniqueValidator.php on line 139
+[06-Jun-2019 13:23:05 UTC] PHP Fatal error:  Call to undefined method app\models\User::getDb() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/validators/UniqueValidator.php on line 139
+[06-Jun-2019 13:25:22 UTC] PHP Fatal error:  Call to undefined method app\models\User::getDb() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/validators/UniqueValidator.php on line 139
+[06-Jun-2019 13:26:59 UTC] PHP Fatal error:  Call to undefined method app\models\User::getDb() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/validators/UniqueValidator.php on line 139
+[06-Jun-2019 13:27:14 UTC] PHP Fatal error:  Call to undefined method app\models\User::getDb() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/validators/UniqueValidator.php on line 139
+[06-Jun-2019 13:33:05 UTC] PHP Fatal error:  Call to undefined method app\models\User::getDb() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/validators/UniqueValidator.php on line 139
+[06-Jun-2019 13:38:30 UTC] PHP Fatal error:  Call to undefined method app\models\User::getDb() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/validators/UniqueValidator.php on line 139
+[06-Jun-2019 13:41:01 UTC] PHP Fatal error:  Call to undefined method app\models\User::getDb() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/validators/UniqueValidator.php on line 139
+[06-Jun-2019 13:56:21 UTC] PHP Fatal error:  Call to undefined method app\models\User::getDb() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/validators/UniqueValidator.php on line 139
+[07-Jun-2019 05:07:44 UTC] PHP Fatal error:  Call to undefined method app\models\User::getDb() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/validators/UniqueValidator.php on line 139
+[07-Jun-2019 05:08:26 UTC] PHP Fatal error:  Call to undefined method app\models\User::getDb() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/validators/UniqueValidator.php on line 139
+[07-Jun-2019 05:17:23 UTC] PHP Fatal error:  Call to undefined method app\models\User::getDb() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/validators/UniqueValidator.php on line 139
+[07-Jun-2019 07:20:24 UTC] PHP Fatal error:  Call to undefined method app\models\User::getDb() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/validators/UniqueValidator.php on line 139
+[07-Jun-2019 07:21:32 UTC] PHP Fatal error:  Call to undefined method app\models\User::getDb() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/validators/UniqueValidator.php on line 139
+[07-Jun-2019 07:28:02 UTC] PHP Fatal error:  Call to undefined method app\models\User::getDb() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/validators/UniqueValidator.php on line 139
+[07-Jun-2019 07:28:23 UTC] PHP Fatal error:  Call to undefined method app\models\User::getDb() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/validators/UniqueValidator.php on line 139
+[07-Jun-2019 07:29:43 UTC] PHP Fatal error:  Call to undefined method app\models\User::getDb() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/validators/UniqueValidator.php on line 139
+[07-Jun-2019 07:30:06 UTC] PHP Fatal error:  Call to undefined method app\models\User::getDb() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/validators/UniqueValidator.php on line 139
+[07-Jun-2019 07:30:25 UTC] PHP Fatal error:  Class 'app\models\AccessControl' not found in /home/adroitte/public_html/projects/libtest1/models/Admin.php on line 45
+[07-Jun-2019 08:39:06 UTC] PHP Fatal error:  Call to undefined method Yii::app() in /home/adroitte/public_html/projects/libtest1/views/layouts/main.php on line 45
+[07-Jun-2019 10:14:55 UTC] PHP Fatal error:  Call to undefined method Yii::app() in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 60
+[07-Jun-2019 10:15:27 UTC] PHP Fatal error:  Function name must be a string in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 60
+[07-Jun-2019 12:56:02 UTC] PHP Fatal error:  Class 'app\controllers\Book' not found in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 184
+[07-Jun-2019 12:58:09 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; cpsession=adroitte%3aQKypcFZ9L06YiqI0%2c05fe7f69442a1ecca8a366d19a9cd4c8; PHPSESSID=emod4a2i75m35b047asmi192a5; _csrf=82fb03a62cac4083534110211a1830c910b1c557d3def4da75407cec4d268339a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22tidyCGXiJVvs7qVbQtj5XUJPdvN2I1Ds%22%3B%7D',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '55722',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/site/book',
+    'REDIRECT_URL' => '/projects/libtest1/web/site/book',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/site/book',
+    'SCRIPT_URL' => '/projects/libtest1/web/site/book',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1559912287.9922139644622802734375,
+    'REQUEST_TIME' => 1559912287,
+    'argv' => [],
+    'argc' => 0,
+]
+[07-Jun-2019 13:00:14 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; cpsession=adroitte%3aQKypcFZ9L06YiqI0%2c05fe7f69442a1ecca8a366d19a9cd4c8; PHPSESSID=emod4a2i75m35b047asmi192a5; _csrf=82fb03a62cac4083534110211a1830c910b1c557d3def4da75407cec4d268339a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22tidyCGXiJVvs7qVbQtj5XUJPdvN2I1Ds%22%3B%7D',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_REFERER' => 'https://adroittechnosys.com/projects/libtest1/web/site/index',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '55832',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/site/book',
+    'REDIRECT_URL' => '/projects/libtest1/web/site/book',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/site/book',
+    'SCRIPT_URL' => '/projects/libtest1/web/site/book',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1559912412.0213301181793212890625,
+    'REQUEST_TIME' => 1559912412,
+    'argv' => [],
+    'argc' => 0,
+]
+[07-Jun-2019 13:09:53 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; PHPSESSID=emod4a2i75m35b047asmi192a5; _csrf=82fb03a62cac4083534110211a1830c910b1c557d3def4da75407cec4d268339a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22tidyCGXiJVvs7qVbQtj5XUJPdvN2I1Ds%22%3B%7D; cpsession=adroitte%3ad44GSqalaZWLOYjn%2c6333509ec8221e33e271d386ae2ecad6',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_REFERER' => 'https://adroittechnosys.com/projects/libtest1/',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '56338',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/site/book',
+    'REDIRECT_URL' => '/projects/libtest1/web/site/book',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/site/book',
+    'SCRIPT_URL' => '/projects/libtest1/web/site/book',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1559912992.771665096282958984375,
+    'REQUEST_TIME' => 1559912992,
+    'argv' => [],
+    'argc' => 0,
+]
+[07-Jun-2019 13:22:57 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; PHPSESSID=emod4a2i75m35b047asmi192a5; _csrf=82fb03a62cac4083534110211a1830c910b1c557d3def4da75407cec4d268339a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22tidyCGXiJVvs7qVbQtj5XUJPdvN2I1Ds%22%3B%7D; cpsession=adroitte%3ad44GSqalaZWLOYjn%2c6333509ec8221e33e271d386ae2ecad6',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '57005',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/site/book',
+    'REDIRECT_URL' => '/projects/libtest1/web/site/book',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/site/book',
+    'SCRIPT_URL' => '/projects/libtest1/web/site/book',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1559913776.620143890380859375,
+    'REQUEST_TIME' => 1559913776,
+    'argv' => [],
+    'argc' => 0,
+]
+[07-Jun-2019 13:23:54 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; PHPSESSID=emod4a2i75m35b047asmi192a5; _csrf=82fb03a62cac4083534110211a1830c910b1c557d3def4da75407cec4d268339a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22tidyCGXiJVvs7qVbQtj5XUJPdvN2I1Ds%22%3B%7D; cpsession=adroitte%3ad44GSqalaZWLOYjn%2c6333509ec8221e33e271d386ae2ecad6',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '57059',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/site/book',
+    'REDIRECT_URL' => '/projects/libtest1/web/site/book',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/site/book',
+    'SCRIPT_URL' => '/projects/libtest1/web/site/book',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1559913834.5838730335235595703125,
+    'REQUEST_TIME' => 1559913834,
+    'argv' => [],
+    'argc' => 0,
+]
+[07-Jun-2019 13:24:18 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; PHPSESSID=emod4a2i75m35b047asmi192a5; _csrf=82fb03a62cac4083534110211a1830c910b1c557d3def4da75407cec4d268339a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22tidyCGXiJVvs7qVbQtj5XUJPdvN2I1Ds%22%3B%7D; cpsession=adroitte%3ad44GSqalaZWLOYjn%2c6333509ec8221e33e271d386ae2ecad6',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '57080',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/site/book',
+    'REDIRECT_URL' => '/projects/libtest1/web/site/book',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/site/book',
+    'SCRIPT_URL' => '/projects/libtest1/web/site/book',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1559913858.818408966064453125,
+    'REQUEST_TIME' => 1559913858,
+    'argv' => [],
+    'argc' => 0,
+]
+[07-Jun-2019 13:24:34 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; PHPSESSID=emod4a2i75m35b047asmi192a5; _csrf=82fb03a62cac4083534110211a1830c910b1c557d3def4da75407cec4d268339a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22tidyCGXiJVvs7qVbQtj5XUJPdvN2I1Ds%22%3B%7D; cpsession=adroitte%3ad44GSqalaZWLOYjn%2c6333509ec8221e33e271d386ae2ecad6',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '57095',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/site/book',
+    'REDIRECT_URL' => '/projects/libtest1/web/site/book',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/site/book',
+    'SCRIPT_URL' => '/projects/libtest1/web/site/book',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1559913874.475164890289306640625,
+    'REQUEST_TIME' => 1559913874,
+    'argv' => [],
+    'argc' => 0,
+]
+[07-Jun-2019 13:27:15 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; PHPSESSID=emod4a2i75m35b047asmi192a5; _csrf=82fb03a62cac4083534110211a1830c910b1c557d3def4da75407cec4d268339a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22tidyCGXiJVvs7qVbQtj5XUJPdvN2I1Ds%22%3B%7D; cpsession=adroitte%3ad44GSqalaZWLOYjn%2c6333509ec8221e33e271d386ae2ecad6',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '57235',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/site/book',
+    'REDIRECT_URL' => '/projects/libtest1/web/site/book',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/site/book',
+    'SCRIPT_URL' => '/projects/libtest1/web/site/book',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1559914035.6496880054473876953125,
+    'REQUEST_TIME' => 1559914035,
+    'argv' => [],
+    'argc' => 0,
+]
+[07-Jun-2019 13:27:46 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; PHPSESSID=emod4a2i75m35b047asmi192a5; _csrf=82fb03a62cac4083534110211a1830c910b1c557d3def4da75407cec4d268339a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22tidyCGXiJVvs7qVbQtj5XUJPdvN2I1Ds%22%3B%7D; cpsession=adroitte%3ad44GSqalaZWLOYjn%2c6333509ec8221e33e271d386ae2ecad6',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '57265',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/site/book',
+    'REDIRECT_URL' => '/projects/libtest1/web/site/book',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/site/book',
+    'SCRIPT_URL' => '/projects/libtest1/web/site/book',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1559914066.3634541034698486328125,
+    'REQUEST_TIME' => 1559914066,
+    'argv' => [],
+    'argc' => 0,
+]
+[07-Jun-2019 13:29:17 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; PHPSESSID=emod4a2i75m35b047asmi192a5; _csrf=82fb03a62cac4083534110211a1830c910b1c557d3def4da75407cec4d268339a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22tidyCGXiJVvs7qVbQtj5XUJPdvN2I1Ds%22%3B%7D; cpsession=adroitte%3ad44GSqalaZWLOYjn%2c6333509ec8221e33e271d386ae2ecad6',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '57347',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/site/book',
+    'REDIRECT_URL' => '/projects/libtest1/web/site/book',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/site/book',
+    'SCRIPT_URL' => '/projects/libtest1/web/site/book',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1559914155.3608109951019287109375,
+    'REQUEST_TIME' => 1559914155,
+    'argv' => [],
+    'argc' => 0,
+]
+[07-Jun-2019 13:29:47 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; PHPSESSID=emod4a2i75m35b047asmi192a5; _csrf=82fb03a62cac4083534110211a1830c910b1c557d3def4da75407cec4d268339a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22tidyCGXiJVvs7qVbQtj5XUJPdvN2I1Ds%22%3B%7D; cpsession=adroitte%3ad44GSqalaZWLOYjn%2c6333509ec8221e33e271d386ae2ecad6',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '57375',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/site/book',
+    'REDIRECT_URL' => '/projects/libtest1/web/site/book',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/site/book',
+    'SCRIPT_URL' => '/projects/libtest1/web/site/book',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1559914187.072865009307861328125,
+    'REQUEST_TIME' => 1559914187,
+    'argv' => [],
+    'argc' => 0,
+]
+[07-Jun-2019 13:32:49 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; PHPSESSID=emod4a2i75m35b047asmi192a5; _csrf=82fb03a62cac4083534110211a1830c910b1c557d3def4da75407cec4d268339a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22tidyCGXiJVvs7qVbQtj5XUJPdvN2I1Ds%22%3B%7D; cpsession=adroitte%3ad44GSqalaZWLOYjn%2c6333509ec8221e33e271d386ae2ecad6',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '57533',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/site/book',
+    'REDIRECT_URL' => '/projects/libtest1/web/site/book',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/site/book',
+    'SCRIPT_URL' => '/projects/libtest1/web/site/book',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1559914369.54619598388671875,
+    'REQUEST_TIME' => 1559914369,
+    'argv' => [],
+    'argc' => 0,
+]
+[07-Jun-2019 13:32:53 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; PHPSESSID=emod4a2i75m35b047asmi192a5; _csrf=82fb03a62cac4083534110211a1830c910b1c557d3def4da75407cec4d268339a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22tidyCGXiJVvs7qVbQtj5XUJPdvN2I1Ds%22%3B%7D; cpsession=adroitte%3ad44GSqalaZWLOYjn%2c6333509ec8221e33e271d386ae2ecad6',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_PRAGMA' => 'no-cache',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'no-cache',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '57533',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/site/book',
+    'REDIRECT_URL' => '/projects/libtest1/web/site/book',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/site/book',
+    'SCRIPT_URL' => '/projects/libtest1/web/site/book',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1559914373.3657701015472412109375,
+    'REQUEST_TIME' => 1559914373,
+    'argv' => [],
+    'argc' => 0,
+]
+[07-Jun-2019 13:33:23 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; PHPSESSID=emod4a2i75m35b047asmi192a5; _csrf=82fb03a62cac4083534110211a1830c910b1c557d3def4da75407cec4d268339a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22tidyCGXiJVvs7qVbQtj5XUJPdvN2I1Ds%22%3B%7D; cpsession=adroitte%3ad44GSqalaZWLOYjn%2c6333509ec8221e33e271d386ae2ecad6',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_PRAGMA' => 'no-cache',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'no-cache',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '57562',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/site/book',
+    'REDIRECT_URL' => '/projects/libtest1/web/site/book',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/site/book',
+    'SCRIPT_URL' => '/projects/libtest1/web/site/book',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1559914403.8134610652923583984375,
+    'REQUEST_TIME' => 1559914403,
+    'argv' => [],
+    'argc' => 0,
+]
+[07-Jun-2019 13:33:56 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; PHPSESSID=emod4a2i75m35b047asmi192a5; _csrf=82fb03a62cac4083534110211a1830c910b1c557d3def4da75407cec4d268339a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22tidyCGXiJVvs7qVbQtj5XUJPdvN2I1Ds%22%3B%7D; cpsession=adroitte%3ad44GSqalaZWLOYjn%2c6333509ec8221e33e271d386ae2ecad6',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_PRAGMA' => 'no-cache',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'no-cache',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '57599',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/site/book',
+    'REDIRECT_URL' => '/projects/libtest1/web/site/book',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/site/book',
+    'SCRIPT_URL' => '/projects/libtest1/web/site/book',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1559914436.9654810428619384765625,
+    'REQUEST_TIME' => 1559914436,
+    'argv' => [],
+    'argc' => 0,
+]
+[08-Jun-2019 04:06:02 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; PHPSESSID=o8092cul24p1gtom0uboi9iop0; _csrf=b3984586ea0fc60266f802c808eee131710e629715f66ff1413981abe5749dcba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22XZH1655QARe-xh_XPQXBRcVTmykUR8K2%22%3B%7D; cpsession=adroitte%3asOuGe4hiAKjdlho3%2c9b3fcdb4ea3dde985ac1f2672c009eda',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_REFERER' => 'https://adroittechnosys.com/projects/libtest1/',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '49464',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/site/book',
+    'REDIRECT_URL' => '/projects/libtest1/web/site/book',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/site/book',
+    'SCRIPT_URL' => '/projects/libtest1/web/site/book',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1559966761.8360769748687744140625,
+    'REQUEST_TIME' => 1559966761,
+    'argv' => [],
+    'argc' => 0,
+]
+[08-Jun-2019 04:11:10 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; PHPSESSID=o8092cul24p1gtom0uboi9iop0; _csrf=b3984586ea0fc60266f802c808eee131710e629715f66ff1413981abe5749dcba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22XZH1655QARe-xh_XPQXBRcVTmykUR8K2%22%3B%7D; cpsession=adroitte%3asOuGe4hiAKjdlho3%2c9b3fcdb4ea3dde985ac1f2672c009eda',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '49622',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/site/book',
+    'REDIRECT_URL' => '/projects/libtest1/web/site/book',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/site/book',
+    'SCRIPT_URL' => '/projects/libtest1/web/site/book',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1559967070.6603488922119140625,
+    'REQUEST_TIME' => 1559967070,
+    'argv' => [],
+    'argc' => 0,
+]
+[08-Jun-2019 04:56:22 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; PHPSESSID=o8092cul24p1gtom0uboi9iop0; _csrf=b3984586ea0fc60266f802c808eee131710e629715f66ff1413981abe5749dcba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22XZH1655QARe-xh_XPQXBRcVTmykUR8K2%22%3B%7D; cpsession=adroitte%3asOuGe4hiAKjdlho3%2c9b3fcdb4ea3dde985ac1f2672c009eda',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_REFERER' => 'https://adroittechnosys.com/projects/libtest1/web/site/BookCreate',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '49856',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/site/book',
+    'REDIRECT_URL' => '/projects/libtest1/web/site/book',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/site/book',
+    'SCRIPT_URL' => '/projects/libtest1/web/site/book',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1559969782.05657100677490234375,
+    'REQUEST_TIME' => 1559969782,
+    'argv' => [],
+    'argc' => 0,
+]
+[08-Jun-2019 04:59:04 UTC] PHP Fatal error:  Cannot use yii\helpers\Html as Html because the name is already in use in /home/adroitte/public_html/projects/libtest1/views/site/add-book.php on line 13
+[08-Jun-2019 04:59:55 UTC] PHP Fatal error:  Cannot use yii\helpers\Html as Html because the name is already in use in /home/adroitte/public_html/projects/libtest1/views/site/add-book.php on line 13
+[08-Jun-2019 05:00:23 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 199.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 199.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; PHPSESSID=o8092cul24p1gtom0uboi9iop0; _csrf=b3984586ea0fc60266f802c808eee131710e629715f66ff1413981abe5749dcba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22XZH1655QARe-xh_XPQXBRcVTmykUR8K2%22%3B%7D; cpsession=adroitte%3asOuGe4hiAKjdlho3%2c9b3fcdb4ea3dde985ac1f2672c009eda',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '49891',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/site/addbook',
+    'REDIRECT_URL' => '/projects/libtest1/web/site/addbook',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/site/addbook',
+    'SCRIPT_URL' => '/projects/libtest1/web/site/addbook',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1559970023.1229569911956787109375,
+    'REQUEST_TIME' => 1559970023,
+    'argv' => [],
+    'argc' => 0,
+]
+[08-Jun-2019 05:00:40 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 199.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 199.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; PHPSESSID=o8092cul24p1gtom0uboi9iop0; _csrf=b3984586ea0fc60266f802c808eee131710e629715f66ff1413981abe5749dcba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22XZH1655QARe-xh_XPQXBRcVTmykUR8K2%22%3B%7D; cpsession=adroitte%3asOuGe4hiAKjdlho3%2c9b3fcdb4ea3dde985ac1f2672c009eda',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '49893',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/site/addbook',
+    'REDIRECT_URL' => '/projects/libtest1/web/site/addbook',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/site/addbook',
+    'SCRIPT_URL' => '/projects/libtest1/web/site/addbook',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1559970040.426525115966796875,
+    'REQUEST_TIME' => 1559970040,
+    'argv' => [],
+    'argc' => 0,
+]
+[08-Jun-2019 05:00:49 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; PHPSESSID=o8092cul24p1gtom0uboi9iop0; _csrf=b3984586ea0fc60266f802c808eee131710e629715f66ff1413981abe5749dcba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22XZH1655QARe-xh_XPQXBRcVTmykUR8K2%22%3B%7D; cpsession=adroitte%3asOuGe4hiAKjdlho3%2c9b3fcdb4ea3dde985ac1f2672c009eda',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_REFERER' => 'https://adroittechnosys.com/projects/libtest1/web/site/addbook',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '49896',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/site/book',
+    'REDIRECT_URL' => '/projects/libtest1/web/site/book',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/site/book',
+    'SCRIPT_URL' => '/projects/libtest1/web/site/book',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1559970049.561686038970947265625,
+    'REQUEST_TIME' => 1559970049,
+    'argv' => [],
+    'argc' => 0,
+]
+[08-Jun-2019 05:00:51 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 199.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 199.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; PHPSESSID=o8092cul24p1gtom0uboi9iop0; _csrf=b3984586ea0fc60266f802c808eee131710e629715f66ff1413981abe5749dcba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22XZH1655QARe-xh_XPQXBRcVTmykUR8K2%22%3B%7D; cpsession=adroitte%3asOuGe4hiAKjdlho3%2c9b3fcdb4ea3dde985ac1f2672c009eda',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_REFERER' => 'https://adroittechnosys.com/projects/libtest1/web/site/book',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '49897',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/site/addbook',
+    'REDIRECT_URL' => '/projects/libtest1/web/site/addbook',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/site/addbook',
+    'SCRIPT_URL' => '/projects/libtest1/web/site/addbook',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1559970051.54531002044677734375,
+    'REQUEST_TIME' => 1559970051,
+    'argv' => [],
+    'argc' => 0,
+]
+[08-Jun-2019 05:01:32 UTC] PHP Fatal error:  Class 'ActiveForm' not found in /home/adroitte/public_html/projects/libtest1/views/site/add-book.php on line 13
+[08-Jun-2019 16:12:02 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 188.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; cpsession=adroitte%3ahSeB9NDeULmCMNqy%2c32936cc02552f55a0f750e4f182fadc3; PHPSESSID=pu0jdl8mobj44h2hbk9525m8s0; _csrf=bc5fba08fc8c71ab45e594664684d897ba914c44a39a0725bde8ee2ffb18defea%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22heUNYjCiksKNhK96U_Ox856RWVr_b48X%22%3B%7D',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_REFERER' => 'https://adroittechnosys.com/projects/libtest1/',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '49245',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/site/book',
+    'REDIRECT_URL' => '/projects/libtest1/web/site/book',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/site/book',
+    'SCRIPT_URL' => '/projects/libtest1/web/site/book',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1560010321.9918329715728759765625,
+    'REQUEST_TIME' => 1560010321,
+    'argv' => [],
+    'argc' => 0,
+]
+[08-Jun-2019 16:13:59 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 199.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 199.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; cpsession=adroitte%3ahSeB9NDeULmCMNqy%2c32936cc02552f55a0f750e4f182fadc3; PHPSESSID=pu0jdl8mobj44h2hbk9525m8s0; _csrf=bc5fba08fc8c71ab45e594664684d897ba914c44a39a0725bde8ee2ffb18defea%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22heUNYjCiksKNhK96U_Ox856RWVr_b48X%22%3B%7D',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '49265',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/site/addbook',
+    'REDIRECT_URL' => '/projects/libtest1/web/site/addbook',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/site/addbook',
+    'SCRIPT_URL' => '/projects/libtest1/web/site/addbook',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1560010439.759583950042724609375,
+    'REQUEST_TIME' => 1560010439,
+    'argv' => [],
+    'argc' => 0,
+]
+[08-Jun-2019 16:15:42 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 199.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 199.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; cpsession=adroitte%3ahSeB9NDeULmCMNqy%2c32936cc02552f55a0f750e4f182fadc3; PHPSESSID=pu0jdl8mobj44h2hbk9525m8s0; _csrf=bc5fba08fc8c71ab45e594664684d897ba914c44a39a0725bde8ee2ffb18defea%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22heUNYjCiksKNhK96U_Ox856RWVr_b48X%22%3B%7D',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '49292',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/site/addbook',
+    'REDIRECT_URL' => '/projects/libtest1/web/site/addbook',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/site/addbook',
+    'SCRIPT_URL' => '/projects/libtest1/web/site/addbook',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1560010542.603354930877685546875,
+    'REQUEST_TIME' => 1560010542,
+    'argv' => [],
+    'argc' => 0,
+]
+[08-Jun-2019 16:16:20 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 199.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 199.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; cpsession=adroitte%3ahSeB9NDeULmCMNqy%2c32936cc02552f55a0f750e4f182fadc3; PHPSESSID=pu0jdl8mobj44h2hbk9525m8s0; _csrf=bc5fba08fc8c71ab45e594664684d897ba914c44a39a0725bde8ee2ffb18defea%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22heUNYjCiksKNhK96U_Ox856RWVr_b48X%22%3B%7D',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '49305',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/site/addbook',
+    'REDIRECT_URL' => '/projects/libtest1/web/site/addbook',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/site/addbook',
+    'SCRIPT_URL' => '/projects/libtest1/web/site/addbook',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1560010580.433970928192138671875,
+    'REQUEST_TIME' => 1560010580,
+    'argv' => [],
+    'argc' => 0,
+]
+[08-Jun-2019 16:16:48 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 199.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 199.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; cpsession=adroitte%3ahSeB9NDeULmCMNqy%2c32936cc02552f55a0f750e4f182fadc3; PHPSESSID=pu0jdl8mobj44h2hbk9525m8s0; _csrf=bc5fba08fc8c71ab45e594664684d897ba914c44a39a0725bde8ee2ffb18defea%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22heUNYjCiksKNhK96U_Ox856RWVr_b48X%22%3B%7D',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '49326',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/site/addbook',
+    'REDIRECT_URL' => '/projects/libtest1/web/site/addbook',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/site/addbook',
+    'SCRIPT_URL' => '/projects/libtest1/web/site/addbook',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1560010608.148593902587890625,
+    'REQUEST_TIME' => 1560010608,
+    'argv' => [],
+    'argc' => 0,
+]
+[08-Jun-2019 16:17:01 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 199.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 199.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; cpsession=adroitte%3ahSeB9NDeULmCMNqy%2c32936cc02552f55a0f750e4f182fadc3; PHPSESSID=pu0jdl8mobj44h2hbk9525m8s0; _csrf=bc5fba08fc8c71ab45e594664684d897ba914c44a39a0725bde8ee2ffb18defea%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22heUNYjCiksKNhK96U_Ox856RWVr_b48X%22%3B%7D',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '49342',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/site/addbook',
+    'REDIRECT_URL' => '/projects/libtest1/web/site/addbook',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/site/addbook',
+    'SCRIPT_URL' => '/projects/libtest1/web/site/addbook',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1560010621.92173004150390625,
+    'REQUEST_TIME' => 1560010621,
+    'argv' => [],
+    'argc' => 0,
+]
+[08-Jun-2019 16:18:02 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 199.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 199.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; cpsession=adroitte%3ahSeB9NDeULmCMNqy%2c32936cc02552f55a0f750e4f182fadc3; PHPSESSID=pu0jdl8mobj44h2hbk9525m8s0; _csrf=bc5fba08fc8c71ab45e594664684d897ba914c44a39a0725bde8ee2ffb18defea%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22heUNYjCiksKNhK96U_Ox856RWVr_b48X%22%3B%7D',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '49398',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/site/addbook',
+    'REDIRECT_URL' => '/projects/libtest1/web/site/addbook',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/site/addbook',
+    'SCRIPT_URL' => '/projects/libtest1/web/site/addbook',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1560010682.73517894744873046875,
+    'REQUEST_TIME' => 1560010682,
+    'argv' => [],
+    'argc' => 0,
+]
+[08-Jun-2019 16:19:29 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 199.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 199.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; cpsession=adroitte%3ahSeB9NDeULmCMNqy%2c32936cc02552f55a0f750e4f182fadc3; PHPSESSID=pu0jdl8mobj44h2hbk9525m8s0; _csrf=bc5fba08fc8c71ab45e594664684d897ba914c44a39a0725bde8ee2ffb18defea%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22heUNYjCiksKNhK96U_Ox856RWVr_b48X%22%3B%7D',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '49479',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/site/addbook',
+    'REDIRECT_URL' => '/projects/libtest1/web/site/addbook',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/site/addbook',
+    'SCRIPT_URL' => '/projects/libtest1/web/site/addbook',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1560010769.3175048828125,
+    'REQUEST_TIME' => 1560010769,
+    'argv' => [],
+    'argc' => 0,
+]
+[08-Jun-2019 16:20:00 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 199.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 199.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; cpsession=adroitte%3ahSeB9NDeULmCMNqy%2c32936cc02552f55a0f750e4f182fadc3; PHPSESSID=pu0jdl8mobj44h2hbk9525m8s0; _csrf=bc5fba08fc8c71ab45e594664684d897ba914c44a39a0725bde8ee2ffb18defea%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22heUNYjCiksKNhK96U_Ox856RWVr_b48X%22%3B%7D',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '49514',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/site/addbook',
+    'REDIRECT_URL' => '/projects/libtest1/web/site/addbook',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/site/addbook',
+    'SCRIPT_URL' => '/projects/libtest1/web/site/addbook',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1560010800.261580944061279296875,
+    'REQUEST_TIME' => 1560010800,
+    'argv' => [],
+    'argc' => 0,
+]
+[09-Jun-2019 03:49:33 UTC] PHP Parse error:  syntax error, unexpected ''//book/index'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/adroitte/public_html/projects/libtest1/controllers/BookController.php on line 25
+[09-Jun-2019 04:02:56 UTC] PHP Fatal error:  Class 'app\controllers\UploadedFile' not found in /home/adroitte/public_html/projects/libtest1/controllers/BookController.php on line 27
+[09-Jun-2019 04:03:20 UTC] PHP Fatal error:  Call to undefined method app\models\Book::getInstance() in /home/adroitte/public_html/projects/libtest1/controllers/BookController.php on line 27
+[09-Jun-2019 04:04:40 UTC] PHP Fatal error:  Call to undefined method app\models\Book::getInstances() in /home/adroitte/public_html/projects/libtest1/controllers/BookController.php on line 27
+[09-Jun-2019 04:11:55 UTC] PHP Fatal error:  Call to undefined method app\models\Book::getInstanceByName() in /home/adroitte/public_html/projects/libtest1/controllers/BookController.php on line 27
+[09-Jun-2019 04:12:52 UTC] PHP Fatal error:  Class 'Yii\web\UploadedFile' not found in /home/adroitte/public_html/projects/libtest1/controllers/BookController.php on line 27
+[09-Jun-2019 04:13:12 UTC] PHP Fatal error:  Class 'Yii\web\Book' not found in /home/adroitte/public_html/projects/libtest1/controllers/BookController.php on line 27
+[09-Jun-2019 05:45:59 UTC] PHP Fatal error:  Class 'Yii\web\Book' not found in /home/adroitte/public_html/projects/libtest1/controllers/BookController.php on line 27
+[09-Jun-2019 05:46:11 UTC] PHP Fatal error:  Call to undefined method app\models\Book::getInstance() in /home/adroitte/public_html/projects/libtest1/controllers/BookController.php on line 27
+[09-Jun-2019 05:54:48 UTC] PHP Fatal error:  Call to a member function saveAs() on null in /home/adroitte/public_html/projects/libtest1/models/Book.php on line 54
+[09-Jun-2019 05:56:03 UTC] PHP Fatal error:  Call to a member function saveAs() on null in /home/adroitte/public_html/projects/libtest1/models/Book.php on line 54
+[09-Jun-2019 05:57:41 UTC] PHP Fatal error:  Call to a member function saveAs() on null in /home/adroitte/public_html/projects/libtest1/models/Book.php on line 54
+[09-Jun-2019 05:59:19 UTC] PHP Fatal error:  Call to a member function saveAs() on null in /home/adroitte/public_html/projects/libtest1/models/Book.php on line 54
+[09-Jun-2019 06:02:39 UTC] PHP Fatal error:  Call to a member function saveAs() on null in /home/adroitte/public_html/projects/libtest1/controllers/BookController.php on line 38
+[09-Jun-2019 06:02:55 UTC] PHP Fatal error:  Call to a member function saveAs() on null in /home/adroitte/public_html/projects/libtest1/models/Book.php on line 54
+[09-Jun-2019 09:09:26 UTC] PHP Fatal error:  Call to a member function saveAs() on null in /home/adroitte/public_html/projects/libtest1/models/Book.php on line 54
+[09-Jun-2019 09:16:27 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/BookController.php on line 31.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/BookController.php on line 31.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'CONTENT_TYPE' => 'multipart/form-data; boundary=----WebKitFormBoundarydGSZHnvB4RCqRqvX',
+    'CONTENT_LENGTH' => '10470',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; cpsession=adroitte%3akYJrWN_1h_X1vK6j%2cf23b315e9385382f408642666bb07567; PHPSESSID=1r4b1e2gm3cgrgn97v3bmbd5g5; _csrf=24f0438bfd1ab6e37ffa16b71f75ee99fc56a788a71d280a875ecd9e5f3146e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22aLQpBHm9yKuhhEf_NlCKluDFle6lAi4J%22%3B%7D',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_REFERER' => 'https://adroittechnosys.com/projects/libtest1/web/book/addbook',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_ORIGIN' => 'https://adroittechnosys.com',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '52262',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/book/addbook',
+    'REDIRECT_URL' => '/projects/libtest1/web/book/addbook',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/book/addbook',
+    'SCRIPT_URL' => '/projects/libtest1/web/book/addbook',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'POST',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1560071787.4490149021148681640625,
+    'REQUEST_TIME' => 1560071787,
+    'argv' => [],
+    'argc' => 0,
+]
+[09-Jun-2019 09:19:38 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/BookController.php on line 32.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\base\UnknownMethodException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\base\UnknownMethodException))
+#4 {main}
+Previous exception:
+exception 'yii\base\UnknownMethodException' with message 'Calling unknown method: app\models\Book::upload()' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Component.php:300
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/controllers/BookController.php(33): yii\base\Component->__call('upload', Array)
+#1 /home/adroitte/public_html/projects/libtest1/controllers/BookController.php(33): app\models\Book->upload()
+#2 [internal function]: app\controllers\BookController->actionAddbook()
+#3 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#4 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#5 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('addbook', Array)
+#6 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('book/addbook', Array)
+#7 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#9 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'CONTENT_TYPE' => 'multipart/form-data; boundary=----WebKitFormBoundarydGSZHnvB4RCqRqvX',
+    'CONTENT_LENGTH' => '10470',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; cpsession=adroitte%3akYJrWN_1h_X1vK6j%2cf23b315e9385382f408642666bb07567; PHPSESSID=1r4b1e2gm3cgrgn97v3bmbd5g5; _csrf=24f0438bfd1ab6e37ffa16b71f75ee99fc56a788a71d280a875ecd9e5f3146e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22aLQpBHm9yKuhhEf_NlCKluDFle6lAi4J%22%3B%7D',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_REFERER' => 'https://adroittechnosys.com/projects/libtest1/web/book/addbook',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_ORIGIN' => 'https://adroittechnosys.com',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '52659',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/book/addbook',
+    'REDIRECT_URL' => '/projects/libtest1/web/book/addbook',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/book/addbook',
+    'SCRIPT_URL' => '/projects/libtest1/web/book/addbook',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'POST',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1560071978.7409279346466064453125,
+    'REQUEST_TIME' => 1560071978,
+    'argv' => [],
+    'argc' => 0,
+]
+[09-Jun-2019 09:22:01 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/BookController.php on line 33.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\base\UnknownMethodException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\base\UnknownMethodException))
+#4 {main}
+Previous exception:
+exception 'yii\base\UnknownMethodException' with message 'Calling unknown method: app\models\Book::upload()' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Component.php:300
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/controllers/BookController.php(34): yii\base\Component->__call('upload', Array)
+#1 /home/adroitte/public_html/projects/libtest1/controllers/BookController.php(34): app\models\Book->upload()
+#2 [internal function]: app\controllers\BookController->actionAddbook()
+#3 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#4 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#5 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('addbook', Array)
+#6 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('book/addbook', Array)
+#7 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#9 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'CONTENT_TYPE' => 'multipart/form-data; boundary=----WebKitFormBoundarydGSZHnvB4RCqRqvX',
+    'CONTENT_LENGTH' => '10470',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; cpsession=adroitte%3akYJrWN_1h_X1vK6j%2cf23b315e9385382f408642666bb07567; PHPSESSID=1r4b1e2gm3cgrgn97v3bmbd5g5; _csrf=24f0438bfd1ab6e37ffa16b71f75ee99fc56a788a71d280a875ecd9e5f3146e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22aLQpBHm9yKuhhEf_NlCKluDFle6lAi4J%22%3B%7D',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_REFERER' => 'https://adroittechnosys.com/projects/libtest1/web/book/addbook',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_ORIGIN' => 'https://adroittechnosys.com',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '52789',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/book/addbook',
+    'REDIRECT_URL' => '/projects/libtest1/web/book/addbook',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/book/addbook',
+    'SCRIPT_URL' => '/projects/libtest1/web/book/addbook',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'POST',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1560072121.5776851177215576171875,
+    'REQUEST_TIME' => 1560072121,
+    'argv' => [],
+    'argc' => 0,
+]
+[09-Jun-2019 09:23:23 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/BookController.php on line 33.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\base\UnknownMethodException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\base\UnknownMethodException))
+#4 {main}
+Previous exception:
+exception 'yii\base\UnknownMethodException' with message 'Calling unknown method: app\models\Book::upload()' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Component.php:300
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/controllers/BookController.php(34): yii\base\Component->__call('upload', Array)
+#1 /home/adroitte/public_html/projects/libtest1/controllers/BookController.php(34): app\models\Book->upload()
+#2 [internal function]: app\controllers\BookController->actionAddbook()
+#3 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#4 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#5 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('addbook', Array)
+#6 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('book/addbook', Array)
+#7 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#9 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'CONTENT_TYPE' => 'multipart/form-data; boundary=----WebKitFormBoundary8Fd1XARU1r01Fmpx',
+    'CONTENT_LENGTH' => '10470',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; cpsession=adroitte%3akYJrWN_1h_X1vK6j%2cf23b315e9385382f408642666bb07567; PHPSESSID=1r4b1e2gm3cgrgn97v3bmbd5g5; _csrf=24f0438bfd1ab6e37ffa16b71f75ee99fc56a788a71d280a875ecd9e5f3146e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22aLQpBHm9yKuhhEf_NlCKluDFle6lAi4J%22%3B%7D',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_REFERER' => 'https://adroittechnosys.com/projects/libtest1/web/book/addbook',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_ORIGIN' => 'https://adroittechnosys.com',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '52789',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/book/addbook',
+    'REDIRECT_URL' => '/projects/libtest1/web/book/addbook',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/book/addbook',
+    'SCRIPT_URL' => '/projects/libtest1/web/book/addbook',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'POST',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1560072203.515614986419677734375,
+    'REQUEST_TIME' => 1560072203,
+    'argv' => [],
+    'argc' => 0,
+]
+[09-Jun-2019 09:26:51 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/BookController.php on line 33.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\base\UnknownMethodException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\base\UnknownMethodException))
+#4 {main}
+Previous exception:
+exception 'yii\base\UnknownMethodException' with message 'Calling unknown method: app\models\Book::upload()' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Component.php:300
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/controllers/BookController.php(34): yii\base\Component->__call('upload', Array)
+#1 /home/adroitte/public_html/projects/libtest1/controllers/BookController.php(34): app\models\Book->upload()
+#2 [internal function]: app\controllers\BookController->actionAddbook()
+#3 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#4 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#5 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('addbook', Array)
+#6 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('book/addbook', Array)
+#7 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#9 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'CONTENT_TYPE' => 'multipart/form-data; boundary=----WebKitFormBoundary8Fd1XARU1r01Fmpx',
+    'CONTENT_LENGTH' => '10470',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; cpsession=adroitte%3akYJrWN_1h_X1vK6j%2cf23b315e9385382f408642666bb07567; PHPSESSID=1r4b1e2gm3cgrgn97v3bmbd5g5; _csrf=24f0438bfd1ab6e37ffa16b71f75ee99fc56a788a71d280a875ecd9e5f3146e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22aLQpBHm9yKuhhEf_NlCKluDFle6lAi4J%22%3B%7D',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_REFERER' => 'https://adroittechnosys.com/projects/libtest1/web/book/addbook',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_ORIGIN' => 'https://adroittechnosys.com',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '53055',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/book/addbook',
+    'REDIRECT_URL' => '/projects/libtest1/web/book/addbook',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/book/addbook',
+    'SCRIPT_URL' => '/projects/libtest1/web/book/addbook',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'POST',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1560072411.2478160858154296875,
+    'REQUEST_TIME' => 1560072411,
+    'argv' => [],
+    'argc' => 0,
+]
+[09-Jun-2019 09:28:32 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/BookController.php on line 33.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\base\UnknownMethodException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\base\UnknownMethodException))
+#4 {main}
+Previous exception:
+exception 'yii\base\UnknownMethodException' with message 'Calling unknown method: app\models\Book::upload()' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Component.php:300
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/controllers/BookController.php(34): yii\base\Component->__call('upload', Array)
+#1 /home/adroitte/public_html/projects/libtest1/controllers/BookController.php(34): app\models\Book->upload()
+#2 [internal function]: app\controllers\BookController->actionAddbook()
+#3 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#4 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#5 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('addbook', Array)
+#6 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('book/addbook', Array)
+#7 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#9 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'CONTENT_TYPE' => 'multipart/form-data; boundary=----WebKitFormBoundary8Fd1XARU1r01Fmpx',
+    'CONTENT_LENGTH' => '10470',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; cpsession=adroitte%3akYJrWN_1h_X1vK6j%2cf23b315e9385382f408642666bb07567; PHPSESSID=1r4b1e2gm3cgrgn97v3bmbd5g5; _csrf=24f0438bfd1ab6e37ffa16b71f75ee99fc56a788a71d280a875ecd9e5f3146e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22aLQpBHm9yKuhhEf_NlCKluDFle6lAi4J%22%3B%7D',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_REFERER' => 'https://adroittechnosys.com/projects/libtest1/web/book/addbook',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_ORIGIN' => 'https://adroittechnosys.com',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '53138',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/book/addbook',
+    'REDIRECT_URL' => '/projects/libtest1/web/book/addbook',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/book/addbook',
+    'SCRIPT_URL' => '/projects/libtest1/web/book/addbook',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'POST',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1560072512.1564500331878662109375,
+    'REQUEST_TIME' => 1560072512,
+    'argv' => [],
+    'argc' => 0,
+]
+[09-Jun-2019 09:35:13 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/BookController.php on line 33.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/BookController.php on line 33.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'CONTENT_TYPE' => 'multipart/form-data; boundary=----WebKitFormBoundary7XVMyuSQYMrDOwEY',
+    'CONTENT_LENGTH' => '10470',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; cpsession=adroitte%3akYJrWN_1h_X1vK6j%2cf23b315e9385382f408642666bb07567; PHPSESSID=1r4b1e2gm3cgrgn97v3bmbd5g5; _csrf=24f0438bfd1ab6e37ffa16b71f75ee99fc56a788a71d280a875ecd9e5f3146e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22aLQpBHm9yKuhhEf_NlCKluDFle6lAi4J%22%3B%7D',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_REFERER' => 'https://adroittechnosys.com/projects/libtest1/web/book/addbook',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_ORIGIN' => 'https://adroittechnosys.com',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '53434',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/book/addbook',
+    'REDIRECT_URL' => '/projects/libtest1/web/book/addbook',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/book/addbook',
+    'SCRIPT_URL' => '/projects/libtest1/web/book/addbook',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'POST',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1560072913.2087819576263427734375,
+    'REQUEST_TIME' => 1560072913,
+    'argv' => [],
+    'argc' => 0,
+]
+[09-Jun-2019 09:36:04 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/BookController.php on line 33.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/BookController.php on line 33.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'CONTENT_TYPE' => 'multipart/form-data; boundary=----WebKitFormBoundary7XVMyuSQYMrDOwEY',
+    'CONTENT_LENGTH' => '10470',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; cpsession=adroitte%3akYJrWN_1h_X1vK6j%2cf23b315e9385382f408642666bb07567; PHPSESSID=1r4b1e2gm3cgrgn97v3bmbd5g5; _csrf=24f0438bfd1ab6e37ffa16b71f75ee99fc56a788a71d280a875ecd9e5f3146e5a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22aLQpBHm9yKuhhEf_NlCKluDFle6lAi4J%22%3B%7D',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_REFERER' => 'https://adroittechnosys.com/projects/libtest1/web/book/addbook',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_ORIGIN' => 'https://adroittechnosys.com',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '53434',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/book/addbook',
+    'REDIRECT_URL' => '/projects/libtest1/web/book/addbook',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/book/addbook',
+    'SCRIPT_URL' => '/projects/libtest1/web/book/addbook',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'POST',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1560072964.1716139316558837890625,
+    'REQUEST_TIME' => 1560072964,
+    'argv' => [],
+    'argc' => 0,
+]
+[09-Jun-2019 18:11:36 UTC] PHP Fatal error:  Call to a member function saveAs() on null in /home/adroitte/public_html/projects/libtest1/models/Book.php on line 55
+[09-Jun-2019 18:43:05 UTC] PHP Fatal error:  Call to a member function saveAs() on string in /home/adroitte/public_html/projects/libtest1/controllers/BookController.php on line 35
+[09-Jun-2019 19:19:19 UTC] PHP Fatal error:  Call to undefined method Yii::app() in /home/adroitte/public_html/projects/libtest1/views/book/_form.php on line 32
+[09-Jun-2019 19:53:00 UTC] PHP Fatal error:  Call to undefined method Yii::app() in /home/adroitte/public_html/projects/libtest1/views/layouts/main.php on line 78
+[09-Jun-2019 19:53:56 UTC] PHP Fatal error:  Class 'Book' not found in /home/adroitte/public_html/projects/libtest1/views/layouts/main.php on line 80
+[09-Jun-2019 19:58:09 UTC] PHP Fatal error:  Class 'Book' not found in /home/adroitte/public_html/projects/libtest1/views/site/index.php on line 15
+[09-Jun-2019 19:59:35 UTC] PHP Fatal error:  Class 'app\controllers\Book' not found in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 77
+[09-Jun-2019 20:03:51 UTC] PHP Fatal error:  Call to undefined method app\models\Book::model() in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 77
+[09-Jun-2019 20:07:10 UTC] PHP Fatal error:  Class 'Book' not found in /home/adroitte/public_html/projects/libtest1/views/site/index.php on line 15
+[09-Jun-2019 20:16:25 UTC] PHP Fatal error:  Call to undefined method app\models\User::findIdentity() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/User.php on line 690
+[09-Jun-2019 20:16:27 UTC] PHP Fatal error:  Call to undefined method app\models\User::findIdentity() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/User.php on line 690
+[09-Jun-2019 20:17:21 UTC] PHP Fatal error:  Access to undeclared static property: app\models\User::$users in /home/adroitte/public_html/projects/libtest1/models/User.php on line 64
+[09-Jun-2019 20:17:37 UTC] PHP Fatal error:  Call to undefined method app\models\User::findIdentity() in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/User.php on line 690
+[09-Jun-2019 20:21:56 UTC] PHP Fatal error:  Class 'app\controllers\User' not found in /home/adroitte/public_html/projects/libtest1/controllers/UserController.php on line 22
+[09-Jun-2019 20:22:12 UTC] PHP Fatal error:  Cannot redeclare class app\models\User in /home/adroitte/public_html/projects/libtest1/models/Users.php on line 7
+[09-Jun-2019 20:22:34 UTC] PHP Fatal error:  Cannot redeclare class app\models\User in /home/adroitte/public_html/projects/libtest1/models/Users.php on line 7
+[09-Jun-2019 20:36:59 UTC] PHP Fatal error:  Class 'Modal' not found in /home/adroitte/public_html/projects/libtest1/views/user/index.php on line 34
+[09-Jun-2019 20:39:01 UTC] PHP Fatal error:  Class 'CHtml' not found in /home/adroitte/public_html/projects/libtest1/views/user/index.php on line 34
+[09-Jun-2019 20:41:03 UTC] PHP Fatal error:  Class 'Modal' not found in /home/adroitte/public_html/projects/libtest1/views/user/index.php on line 34
+[09-Jun-2019 20:43:06 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or heredoc end (T_END_HEREDOC) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/adroitte/public_html/projects/libtest1/views/user/index.php on line 61
+[09-Jun-2019 20:44:12 UTC] PHP Fatal error:  Class 'ActiveForm' not found in /home/adroitte/public_html/projects/libtest1/views/user/index.php on line 49
+[09-Jun-2019 20:44:39 UTC] PHP Fatal error:  Class 'ActiveForm' not found in /home/adroitte/public_html/projects/libtest1/views/user/index.php on line 55
+[09-Jun-2019 20:52:44 UTC] PHP Fatal error:  Call to a member function isAttributeRequired() on null in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/widgets/ActiveField.php on line 926
+[10-Jun-2019 02:27:15 UTC] PHP Fatal error:  Class 'yii\helpers\url' not found in /home/adroitte/public_html/projects/libtest1/views/user/index.php on line 12
+[10-Jun-2019 02:55:28 UTC] PHP Fatal error:  Call to a member function getQueryBuilder() on array in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/db/ActiveQuery.php on line 328
+[10-Jun-2019 02:56:01 UTC] PHP Fatal error:  Call to a member function getQueryBuilder() on array in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/db/ActiveQuery.php on line 328
+[10-Jun-2019 02:57:13 UTC] PHP Fatal error:  Class 'app\controllers\NotFoundHttpException' not found in /home/adroitte/public_html/projects/libtest1/controllers/BookController.php on line 96
+[10-Jun-2019 03:18:40 UTC] PHP Fatal error:  Class 'app\controllers\Book' not found in /home/adroitte/public_html/projects/libtest1/controllers/UserController.php on line 93
+[10-Jun-2019 03:18:47 UTC] PHP Fatal error:  Class 'app\controllers\Book' not found in /home/adroitte/public_html/projects/libtest1/controllers/UserController.php on line 93
+[10-Jun-2019 03:20:51 UTC] PHP Fatal error:  Class 'App\Book' not found in /home/adroitte/public_html/projects/libtest1/controllers/UserController.php on line 93
+[10-Jun-2019 03:21:09 UTC] PHP Fatal error:  Call to a member function isAttributeRequired() on array in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/widgets/ActiveField.php on line 926
+[10-Jun-2019 03:21:10 UTC] PHP Fatal error:  Call to a member function isAttributeRequired() on array in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/widgets/ActiveField.php on line 926
+[10-Jun-2019 03:21:30 UTC] PHP Fatal error:  Class 'app\controller\Book' not found in /home/adroitte/public_html/projects/libtest1/controllers/UserController.php on line 93
+[10-Jun-2019 03:22:20 UTC] PHP Fatal error:  Class 'app\Book' not found in /home/adroitte/public_html/projects/libtest1/controllers/UserController.php on line 93
+[10-Jun-2019 03:22:34 UTC] PHP Fatal error:  Call to a member function isAttributeRequired() on array in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/widgets/ActiveField.php on line 926
+[10-Jun-2019 03:23:22 UTC] PHP Fatal error:  Call to a member function isAttributeRequired() on null in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/widgets/ActiveField.php on line 926
+[10-Jun-2019 03:27:52 UTC] PHP Fatal error:  Call to a member function isAttributeRequired() on null in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/widgets/ActiveField.php on line 926
+[10-Jun-2019 03:28:11 UTC] PHP Fatal error:  Call to a member function isAttributeRequired() on null in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/widgets/ActiveField.php on line 926
+[10-Jun-2019 03:28:38 UTC] PHP Fatal error:  Call to a member function isAttributeRequired() on null in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/widgets/ActiveField.php on line 926
+[10-Jun-2019 04:06:20 UTC] PHP Fatal error:  Class 'app\controllers\Users' not found in /home/adroitte/public_html/projects/libtest1/controllers/SiteController.php on line 77
+[10-Jun-2019 04:17:03 UTC] PHP Fatal error:  Class 'yii\jui\DatePicker' not found in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/widgets/ActiveField.php on line 792
+[10-Jun-2019 04:17:07 UTC] PHP Fatal error:  Class 'yii\jui\DatePicker' not found in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/widgets/ActiveField.php on line 792
+[10-Jun-2019 04:17:39 UTC] PHP Fatal error:  Class 'yii\jui\DatePicker' not found in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/widgets/ActiveField.php on line 792
+[10-Jun-2019 04:19:03 UTC] PHP Fatal error:  Class 'yii\jui\DatePicker' not found in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/widgets/ActiveField.php on line 792
+[10-Jun-2019 04:42:11 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/adroitte/public_html/projects/libtest1/controllers/UserController.php on line 23
+[10-Jun-2019 04:45:50 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/adroitte/public_html/projects/libtest1/controllers/UserController.php on line 23
+[10-Jun-2019 04:46:01 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/adroitte/public_html/projects/libtest1/controllers/UserController.php on line 23
+[10-Jun-2019 05:19:13 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/UserController.php on line 28.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/UserController.php on line 28.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; cpsession=adroitte%3as0v5VJcCmWf_0yOc%2c9c4abb3f8570ea05a378b949fb794868; PHPSESSID=cu0roob4ln7jk93c70df35enj3; _csrf=9209e8219e3d295df0010d8504d6647666f2519eb61a9fd7db2eed493a2c3e50a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22pSy9Tcf2k_e38wUAxarkYwOv9vomtkL5%22%3B%7D',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '58139',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/user/index',
+    'REDIRECT_URL' => '/projects/libtest1/web/user/index',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => '',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/user/index',
+    'SCRIPT_URL' => '/projects/libtest1/web/user/index',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'GET',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1560143953.3049700260162353515625,
+    'REQUEST_TIME' => 1560143953,
+    'argv' => [],
+    'argc' => 0,
+]
+[10-Jun-2019 05:41:54 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/BooklendController.php on line 37.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/BooklendController.php on line 37.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'CONTENT_TYPE' => 'multipart/form-data; boundary=----WebKitFormBoundarySvnYoPx43A7jm4J3',
+    'CONTENT_LENGTH' => '775',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; cpsession=adroitte%3as0v5VJcCmWf_0yOc%2c9c4abb3f8570ea05a378b949fb794868; PHPSESSID=cu0roob4ln7jk93c70df35enj3; _csrf=9209e8219e3d295df0010d8504d6647666f2519eb61a9fd7db2eed493a2c3e50a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22pSy9Tcf2k_e38wUAxarkYwOv9vomtkL5%22%3B%7D',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_REFERER' => 'https://adroittechnosys.com/projects/libtest1/web/booklend/assignbook?id=3',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_ORIGIN' => 'https://adroittechnosys.com',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '59323',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/booklend/assignbook?id=3',
+    'REDIRECT_URL' => '/projects/libtest1/web/booklend/assignbook',
+    'REDIRECT_QUERY_STRING' => 'id=3',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => 'id=3',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/booklend/assignbook',
+    'SCRIPT_URL' => '/projects/libtest1/web/booklend/assignbook',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'POST',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1560145314.5551650524139404296875,
+    'REQUEST_TIME' => 1560145314,
+    'argv' => [
+        'id=3',
+    ],
+    'argc' => 1,
+]
+[10-Jun-2019 05:42:39 UTC] An Error occurred while handling another error:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/BooklendController.php on line 37.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+exception 'yii\web\HeadersAlreadySentException' with message 'Headers already sent in /home/adroitte/public_html/projects/libtest1/controllers/BooklendController.php on line 37.' in /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/adroitte/public_html/projects/libtest1/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/adroitte/public_html/projects/libtest1/web/index.php(12): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PATH' => '/bin:/usr/bin:/usr/local/bin',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9',
+    'CONTENT_TYPE' => 'multipart/form-data; boundary=----WebKitFormBoundaryzDsUDukpit9vqBsE',
+    'CONTENT_LENGTH' => '785',
+    'HTTP_COOKIE' => 'timezone=Asia/Kolkata; cpsession=adroitte%3as0v5VJcCmWf_0yOc%2c9c4abb3f8570ea05a378b949fb794868; PHPSESSID=cu0roob4ln7jk93c70df35enj3; _csrf=9209e8219e3d295df0010d8504d6647666f2519eb61a9fd7db2eed493a2c3e50a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22pSy9Tcf2k_e38wUAxarkYwOv9vomtkL5%22%3B%7D',
+    'HTTP_HOST' => 'adroittechnosys.com',
+    'HTTP_REFERER' => 'https://adroittechnosys.com/projects/libtest1/web/user/index',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_ORIGIN' => 'https://adroittechnosys.com',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'DOCUMENT_ROOT' => '/home/adroitte/public_html',
+    'REMOTE_ADDR' => '122.169.16.102',
+    'REMOTE_PORT' => '59323',
+    'SERVER_ADDR' => '137.59.52.178',
+    'SERVER_NAME' => 'adroittechnosys.com',
+    'SERVER_ADMIN' => 'webmaster@adroittechnosys.com',
+    'SERVER_PORT' => '443',
+    'REQUEST_URI' => '/projects/libtest1/web/booklend/assignbook?id=3',
+    'REDIRECT_URL' => '/projects/libtest1/web/booklend/assignbook',
+    'REDIRECT_QUERY_STRING' => 'id=3',
+    'HTTPS' => 'on',
+    'REDIRECT_STATUS' => '200',
+    'X_SPDY' => 'HTTP2',
+    'SSL_PROTOCOL' => 'TLSv1.3',
+    'SSL_CIPHER' => 'AEAD-AES128-GCM-SHA256',
+    'SSL_CIPHER_USEKEYSIZE' => '128',
+    'SSL_CIPHER_ALGKEYSIZE' => '128',
+    'SCRIPT_FILENAME' => '/home/adroitte/public_html/projects/libtest1/web/index.php',
+    'QUERY_STRING' => 'id=3',
+    'SCRIPT_URI' => 'https://adroittechnosys.com/projects/libtest1/web/booklend/assignbook',
+    'SCRIPT_URL' => '/projects/libtest1/web/booklend/assignbook',
+    'SCRIPT_NAME' => '/projects/libtest1/web/index.php',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SOFTWARE' => 'LiteSpeed',
+    'REQUEST_METHOD' => 'POST',
+    'X-LSCACHE' => 'on',
+    'PHP_SELF' => '/projects/libtest1/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1560145359.0539610385894775390625,
+    'REQUEST_TIME' => 1560145359,
+    'argv' => [
+        'id=3',
+    ],
+    'argc' => 1,
+]
